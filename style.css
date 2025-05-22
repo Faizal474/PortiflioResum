@@ -32,8 +32,6 @@ body {
 .header .photo-placeholder {
     width: 150px;
     height: 150px;
-    top: 10px;
-    left: 10px;
     border-radius: 50%;
     position: absolute;
     border: 5px solid #28A745;
